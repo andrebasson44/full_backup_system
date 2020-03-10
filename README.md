@@ -24,6 +24,5 @@ REQUIREMENTS:
   					(see documentation or https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-14-04)
     b) Rsync
   	c) SSH - with hosts configured for RSA public/private key pair
-  
-  2. User software:
-    a) Program path - if not in system path already - should be listed (see RESOURCE FILES section)
+   
+   
